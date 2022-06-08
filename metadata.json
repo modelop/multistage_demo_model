@@ -1,0 +1,9 @@
+{
+    "tags": [],
+    "name": "Standardized MRI Tests",
+    "description": "A series of tests run on all models in a blackbox fashion.  The tests include Kolmogorov-Smirnov drift detection, stability analysis, basic performance metrics, and a general data quality analysis using Great Expectations and YData-Quality packages ",
+    "modelCategory": "MODEL_MONITORING_MODEL",
+    "defaultAssociationRole": "METRICS_MODEL",
+    "frequentlyUsed": false,
+    "custom" : {}
+}
